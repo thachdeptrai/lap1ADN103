@@ -39,6 +39,7 @@
 
     <!-- Forgot Password & Sign Up Links -->
     <TextView
+        android:id="@+id/tvForgotPassword"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Forgot password?"
